@@ -1,4 +1,4 @@
-public class JavaOrnekleri {
+public class Javaortalamabulma{
     
     public static void main(String[] args) {
         
